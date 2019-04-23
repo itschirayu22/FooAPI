@@ -6,6 +6,7 @@ using System.Web;
 
 namespace FooAPI.Models
 {
+    //this it model for product
     public class Product
     {
         [JsonProperty("id")]
